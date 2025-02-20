@@ -120,3 +120,6 @@ README.md
 | Lógica de Programação    | 20%   |
 | Conhecimento Técnico    | 10%   |
 | Documentação            | 10%   |
+
+
+Boa sorte! Lembre-se sempre: 'O software está feito para resolver problemas, não para ser perfeito.' — Linus Torvalds.
