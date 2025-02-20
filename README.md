@@ -3,7 +3,7 @@
 ## Instruções Gerais
 Você deve desenvolver uma aplicação simples para gerenciar serviços em uma estética automotiva. A aplicação deve ter um backend em **Node.js** e um frontend em **React**. O objetivo é avaliar suas habilidades em criar uma aplicação funcional, seguindo boas práticas de desenvolvimento.
 
-Você terá **5 dias** para concluir o teste. Ao final, envie um link para o repositório no GitHub com o código fonte e instruções claras de como rodar o projeto.
+Você terá **7 dias** para concluir o teste. Ao final, envie um link para o repositório no GitHub com o código fonte e instruções claras de como rodar o projeto.
 
 ## Requisitos do Sistema
 
