@@ -92,7 +92,7 @@ Use um arquivo JSON ou SQLite para armazenar os dados.
 - Teste todas as funcionalidades antes de enviar o projeto.
 
 ## Exemplo de Estrutura do Projeto
-'''bash 
+```bash 
 /backend
   - server.js (ou index.js)
   /routes
@@ -110,7 +110,7 @@ Use um arquivo JSON ou SQLite para armazenar os dados.
     - index.js
   - package.json
 README.md
-'''
+```
 ## Critérios de Avaliação
 
 | Critério                | Peso  |
